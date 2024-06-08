@@ -21,7 +21,7 @@ To run the project code, follow these steps:
     ```
 2. Ensure you have Python installed (version 3.6 or higher).
 3. Install the required Python libraries.
-4. Open and run the `Credit_Card_Fraud_detection.ipynb` notebook in a Jupyter Notebook environment.
+4. Open and run the `Movie_Genre_Classification.ipynb` notebook in a Jupyter Notebook environment.
 
 ## Dependencies
 
